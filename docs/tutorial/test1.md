@@ -12,3 +12,4 @@ In any real application, you'll need to pass data from one component down to its
 	let { answer } = +++$props()+++;
 </script>
 ```
+New change
